@@ -29,7 +29,8 @@
         android:id="@+id/body"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:scrollbars="horizontal" />
+        android:scrollbars="horizontal"
+        android:inputType="" />
 
     <Button
         android:id="@+id/clear"
